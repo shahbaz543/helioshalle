@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 0,
+    "InventoryId": 0,
+    "Name": "string",
+    "FileName": "string",
+    "IsPreview": true,
+    "DataAsJson": "string"
+  }
+]

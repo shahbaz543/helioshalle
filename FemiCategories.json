@@ -1,0 +1,73 @@
+[{
+  "Id": 70,
+  "Name": "Versorgungswagen"
+},
+{
+  "Id": 72,
+  "Name": "Belüftungsanlagen"
+},
+{
+  "Id": 74,
+  "Name": "Desinfektionsgeräte"
+},
+{
+  "Id": 76,
+  "Name": "Flugzeugschlepper"
+},
+{
+  "Id": 78,
+  "Name": "Flurförderfahrzeuge"
+},
+{
+  "Id": 80,
+  "Name": "Steiger"
+},
+{
+  "Id": 82,
+  "Name": "Klima- & Kühlanlagen"
+},
+{
+  "Id": 84,
+  "Name": "Bodenstromversorgung"
+},
+{
+  "Id": 86,
+  "Name": "Kabinendrucktestanlagen"
+},
+{
+  "Id": 88,
+  "Name": "Treppen und Bühnen"
+},
+{
+  "Id": 90,
+  "Name": "Steuerstand"
+},
+{
+  "Id": 92,
+  "Name": "Abdeckungen für Sensoren"
+},
+{
+  "Id": 94,
+  "Name": "Cowlingpumpen"
+},
+{
+  "Id": 96,
+  "Name": "Fahrwerkheber"
+},
+{
+  "Id": 98,
+  "Name": "Mess- und Prüfmittel"
+},
+{
+  "Id": 100,
+  "Name": "Transportmaterial"
+},
+{
+  "Id": 102,
+  "Name": "Zurrgeschirr"
+},
+{
+  "Id": 104,
+  "Name": "Sonstiges"
+}
+]

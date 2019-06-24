@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "Verfügbar"
+  },
+  {
+    "Id": 2,
+    "Name": "In Reparatur"
+  },
+  {
+    "Id": 4,
+    "Name": "TÜV Prüfung"
+  },
+  {
+    "Id": 26,
+    "Name": "Verlagert"
+  },
+  {
+    "Id": 27,
+    "Name": "Verliehen"
+  },
+  {
+    "Id": 28,
+    "Name": "Verschrottung"
+  },
+  {
+    "Id": 29,
+    "Name": "Verlust"
+  }
+]

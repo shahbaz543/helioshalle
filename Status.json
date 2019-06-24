@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 5,
+    "Name": "In Beschaffung"
+  },
+  {
+    "Id": 6,
+    "Name": "Aktiv"
+  },
+  {
+    "Id": 7,
+    "Name": "Inaktiv"
+  },
+  {
+    "Id": 8,
+    "Name": "Ausgesondert"
+  },
+  {
+    "Id": 9,
+    "Name": "Verliehen"
+  }
+]
