@@ -8,27 +8,27 @@
   {
     "Id": 434,
     "ParentId": 433,
-    "Name": "FAL SA"
+    "Name": "Halle 9"
   },
   {
     "Id": 373,
     "ParentId": 2,
-    "Name": "Halle 7"
+    "Name": "Halle 9"
   },
   {
     "Id": 388,
     "ParentId": 2,
-    "Name": "Halle 255"
+    "Name": "Halle 9"
   },
   {
     "Id": 389,
     "ParentId": 388,
-    "Name": "FAL SA"
+    "Name": "Halle 9"
   },
   {
     "Id": 433,
     "ParentId": 2,
-    "Name": "Halle N/A"
+    "Name": "Halle 9"
   }
 
  
