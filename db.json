@@ -50,7 +50,7 @@
   
  "inventories": [
   {
-    "Id": 349171,
+    "id": 349171,
     "Description": "Monitor",
     "EquipmentTypeId": 2,
     "EquipmentType": "IT",
@@ -103,7 +103,7 @@
     "LastUpdated": null
   },
    {
-    "Id": 349172,
+    "id": 349172,
     "Description": "Monitor",
     "EquipmentTypeId": 2,
     "EquipmentType": "IT",
