@@ -1,32 +1,32 @@
 {
   "posts": [
   {
-    "Id": 450,
+    "id": 450,
     "ParentId": 2,
     "Name": "Halle 9"
   },
   {
-    "Id": 434,
+    "id": 434,
     "ParentId": 433,
     "Name": "Halle 9"
   },
   {
-    "Id": 373,
+    "id": 373,
     "ParentId": 2,
     "Name": "Halle 9"
   },
   {
-    "Id": 388,
+    "id": 388,
     "ParentId": 2,
     "Name": "Halle 9"
   },
   {
-    "Id": 389,
+    "id": 389,
     "ParentId": 388,
     "Name": "Halle 9"
   },
   {
-    "Id": 433,
+    "id": 433,
     "ParentId": 2,
     "Name": "Halle 9"
   }
