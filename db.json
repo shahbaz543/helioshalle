@@ -35,21 +35,21 @@
   ],
   "categories": [
   {
-    "Id": 1,
+    "id": 1,
     "Name": "A - Kauf"
   },
   {
-    "Id": 2,
+    "id": 2,
     "Name": "L - Leasing"
   },
   {
-    "Id": 3,
+    "id": 3,
     "Name": "X - Fremd"
   }
 ],
   
   "DocumentsByID": [{
-  "Id": 0,
+  "id": 0,
   "InventoryId": 0,
   "Name": "string",
   "FileName": "string",
@@ -58,84 +58,84 @@
 }],
   "equipmentTypes": [
   {
-    "Id": 1,
+    "id": 1,
     "Name": "FEMI"
   },
   {
-    "Id": 2,
+    "id": 2,
     "Name": "IT"
   }
 ],
   "femiCategories": [{
-  "Id": 70,
+  "id": 70,
   "Name": "Versorgungswagen"
 },
 {
-  "Id": 72,
+  "id": 72,
   "Name": "Belüftungsanlagen"
 },
 {
-  "Id": 74,
+  "id": 74,
   "Name": "Desinfektionsgeräte"
 },
 {
-  "Id": 76,
+  "id": 76,
   "Name": "Flugzeugschlepper"
 },
 {
-  "Id": 78,
+  "id": 78,
   "Name": "Flurförderfahrzeuge"
 },
 {
-  "Id": 80,
+  "id": 80,
   "Name": "Steiger"
 },
 {
-  "Id": 82,
+  "id": 82,
   "Name": "Klima- & Kühlanlagen"
 },
 {
-  "Id": 84,
+  "id": 84,
   "Name": "Bodenstromversorgung"
 },
 {
-  "Id": 86,
+  "id": 86,
   "Name": "Kabinendrucktestanlagen"
 },
 {
-  "Id": 88,
+  "id": 88,
   "Name": "Treppen und Bühnen"
 },
 {
-  "Id": 90,
+  "id": 90,
   "Name": "Steuerstand"
 },
 {
-  "Id": 92,
+  "id": 92,
   "Name": "Abdeckungen für Sensoren"
 },
 {
-  "Id": 94,
+  "id": 94,
   "Name": "Cowlingpumpen"
 },
 {
-  "Id": 96,
+  "id": 96,
   "Name": "Fahrwerkheber"
 },
 {
-  "Id": 98,
+  "id": 98,
   "Name": "Mess- und Prüfmittel"
 },
 {
-  "Id": 100,
+  "id": 100,
   "Name": "Transportmaterial"
 },
 {
-  "Id": 102,
+  "id": 102,
   "Name": "Zurrgeschirr"
 },
 {
-  "Id": 104,
+  "id": 104,
   "Name": "Sonstiges"
 }
 ]
