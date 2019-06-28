@@ -19,8 +19,8 @@
   {
     "id": 349171,
     "Description": "Monitor",
-    "EquipmentTypeId": 2,
-    "EquipmentType": "IT",
+    "EquipmentTypeId": 1,
+    "EquipmentType": "FEMI",
     "ParentId": null,
     "LocId": 433,
     "EquId": "",
