@@ -84,7 +84,7 @@
     "StatusId": 6,
     "Status": "Aktiv",
     "NextAction": "",
-    "NextActionDate": "2019-07-10T09:01:55",
+    "NextActionDate": null,
     "GeoId": null,
     "Manufacturer": "Promethean2",
     "SerialNumber": "A902032117",
