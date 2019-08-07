@@ -1,6 +1,6 @@
 {
   "posts": [{"Id":434,"ParentId":433,"Name":"FAL SA"},{"Id":373,"ParentId":2,"Name":"Halle 7"},{"Id":388,"ParentId":2,"Name":"Halle 255"},{"Id":389,"ParentId":388,"Name":"FAL SA"},{"Id":433,"ParentId":2,"Name":"Halle N/A"},{"Id":435,"ParentId":434,"Name":"Flightline"},{"Id":436,"ParentId":2,"Name":"Halle 290"},{"Id":437,"ParentId":436,"Name":"FAL SA"},{"Id":438,"ParentId":437,"Name":"Flightline"},{"Id":439,"ParentId":2,"Name":"Haus 28"},{"Id":440,"ParentId":439,"Name":"FAL SA"},{"Id":441,"ParentId":440,"Name":"Flightline"},{"Id":431,"ParentId":177,"Name":"BSLAL"},{"Id":421,"ParentId":2,"Name":"Halle 14"},{"Id":376,"ParentId":2,"Name":"Halle 242"},{"Id":377,"ParentId":376,"Name":"FAL SA"},{"Id":422,"ParentId":421,"Name":"FAL SA"},{"Id":423,"ParentId":422,"Name":"Flightline"},{"Id":382,"ParentId":2,"Name":"Halle 244"},
-           {"Id":434,"ParentId":433,"Name":"FAL SA"},{"Id":373,"ParentId":2,"Name":"Halle 7"},{"Id":434,"ParentId":433,"Name":"FAL SA"},{"Id":373,"ParentId":2,"Name":"Halle 7"},{"Id":434,"ParentId":433,"Name":"FAL SA"}],
+           ],
   "categories": [
   {
     "id": 1,
@@ -23,7 +23,7 @@
     "EquipmentTypeId": 1,
     "EquipmentType": "FEMI",
     "ParentId": null,
-    "LocId": 373,
+    "LocId": 433,
     "EquId": "",
     "ShutDownDate": null,
     "CatId": null,
@@ -76,7 +76,7 @@
     "EquipmentTypeId": 2,
     "EquipmentType": "IT",
     "ParentId": null,
-    "LocId": 373,
+    "LocId": 434,
     "EquId": "",
     "ShutDownDate": null,
     "CatId": null,
@@ -129,7 +129,7 @@
     "EquipmentTypeId": 2,
     "EquipmentType": "IT",
     "ParentId": null,
-    "LocId": 373,
+    "LocId": 434,
     "EquId": "",
     "ShutDownDate": null,
     "CatId": null,
